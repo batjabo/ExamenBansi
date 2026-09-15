@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbiExamenModelStoreContainer" CdmEntityContainer="DbiExamenEntities1">
+    <EntitySetMapping Name="tbl_Examen">
+      <EntityTypeMapping TypeName="DbiExamenModel.tbl_Examen">
+        <MappingFragment StoreEntitySet="tbl_Examen">
+          <ScalarProperty Name="fi_idExamen" ColumnName="fi_idExamen" />
+          <ScalarProperty Name="fc_Nombre" ColumnName="fc_Nombre" />
+          <ScalarProperty Name="fc_Descripcion" ColumnName="fc_Descripcion" />
+          <ScalarProperty Name="fb_Estatus" ColumnName="fb_Estatus" />
+          <ScalarProperty Name="fd_falta" ColumnName="fd_falta" />
+          <ScalarProperty Name="fd_fechaModificacion" ColumnName="fd_fechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

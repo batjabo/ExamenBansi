@@ -1,0 +1,207 @@
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Bussines.dll.config
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Bussines.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Bussines.pdb
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csc.exe
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csc.exe.config
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csc.rsp
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csi.exe
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csi.exe.config
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csi.rsp
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Managed.Core.targets
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.AppContext.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Collections.Immutable.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Console.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Globalization.Calendars.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.Compression.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.FileSystem.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Net.Http.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Net.Sockets.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Reflection.Metadata.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.ValueTuple.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XmlDocument.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XPath.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\vbc.exe
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\vbc.exe.config
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\vbc.rsp
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\VBCSCompiler.exe
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\VBCSCompiler.exe.config
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\DataBase.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.SqlServer.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Modelos.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\DataBase.pdb
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\DataBase.dll.config
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Modelos.pdb
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Modelos.dll.config
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.xml
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.SqlServer.xml
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.AssemblyReference.cache
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.Up2Date
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.dll
+H:\desarrollo\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.pdb
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Bussines.dll.config
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Bussines.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Bussines.pdb
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csc.exe
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csc.exe.config
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csc.rsp
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csi.exe
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csi.exe.config
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\csi.rsp
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Managed.Core.targets
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.AppContext.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Collections.Immutable.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Console.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Globalization.Calendars.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.Compression.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.FileSystem.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Net.Http.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Net.Sockets.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Reflection.Metadata.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.ValueTuple.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XmlDocument.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XPath.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\vbc.exe
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\vbc.exe.config
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\vbc.rsp
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\VBCSCompiler.exe
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\roslyn\VBCSCompiler.exe.config
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\DataBase.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.SqlServer.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Modelos.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\DataBase.pdb
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\DataBase.dll.config
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Modelos.pdb
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Modelos.dll.config
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.xml
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\EntityFramework.SqlServer.xml
+C:\source\Examen Bansefi\WsApiexamen\Bussines\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\source\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.AssemblyReference.cache
+C:\source\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+C:\source\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.Up2Date
+C:\source\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.dll
+C:\source\Examen Bansefi\WsApiexamen\Bussines\obj\Debug\Bussines.pdb
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Bussines.dll.config
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Bussines.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Bussines.pdb
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\csc.exe
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\csc.exe.config
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\csc.rsp
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\csi.exe
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\csi.exe.config
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\csi.rsp
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.AppContext.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Console.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.IO.Compression.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Net.Http.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Net.Sockets.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.ValueTuple.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XPath.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\vbc.exe
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\vbc.exe.config
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\vbc.rsp
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\VBCSCompiler.exe
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\DataBase.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\EntityFramework.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\EntityFramework.SqlServer.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Modelos.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\DataBase.pdb
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\DataBase.dll.config
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Modelos.pdb
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Modelos.dll.config
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\EntityFramework.xml
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\EntityFramework.SqlServer.xml
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.AssemblyReference.cache
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\obj\Debug\Bussines.csproj.Up2Date
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\obj\Debug\Bussines.dll
+C:\Users\batja\source\repos\ExamenBansi\WsApiexamen\Bussines\obj\Debug\Bussines.pdb
