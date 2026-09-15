@@ -1,0 +1,20 @@
+Archivo de desarrollo
+
+. Proyecto webservices 
+Ws se compilo por fuera, es desarrollo aparte. se encuentra en la carpeta 
+\Examen Bansi Juan Aurelio becerra Olvera\\WsApiexamen\WsApiexamen.sln
+
+- proyecto Dll, 
+\Examen Bansi Juan Aurelio becerra Olvera\\Libreria\apiexamen\apiexamen\apiexamen.csproj
+
+
+- proyectode consumo
+
+en este proyecto se encuntran integrados los dos proyectos, tanto el de la dll como el de 
+consumo como fue solicitado en el documento.
+
+
+ruta: \Examen Bansi Juan Aurelio becerra Olvera\APP\ExamenBANSI\ExamenBANSI.sln
+
+
+
