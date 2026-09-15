@@ -1,0 +1,108 @@
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.AssemblyReference.cache
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.CoreCompileInputs.cache
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.pdb
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.Up2Date
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.dll
+H:\desarrollo\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.pdb
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.pdb
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.AssemblyReference.cache
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.CoreCompileInputs.cache
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.Up2Date
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.dll
+C:\source\Examen Bansefi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.pdb
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.pdb
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.AssemblyReference.cache
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.CoreCompileInputs.cache
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.Up2Date
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.dll
+C:\source\Examen Bansefi Juan Aurelio becerra Olvera\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.pdb
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\apiexamen.pdb
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Buffers.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.IO.Pipelines.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Memory.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Text.Json.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.AssemblyReference.cache
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.CoreCompileInputs.cache
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.csproj.Up2Date
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.dll
+C:\Users\batja\source\repos\ExamenBansi\Libreria\apiexamen\apiexamen\obj\Debug\apiexamen.pdb
