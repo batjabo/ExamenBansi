@@ -1,0 +1,254 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_layoutExamen.cshtml";
+}
+
+<meta charset="utf-8">
+<link href="~/css/style.css" rel="stylesheet" />
+<link href="~/css/ajustes.css" rel="stylesheet" />
+
+<div class="frame-3">
+    <div class="container-fluid">
+        <div id="main_container2">
+            <div class="row">
+                <div class="col-sm-0 col-md-5 col-lg-5 col-xl-5">
+                    <div class="input-group">
+                        <input class="form-control" type="search" placeholder="Buscar por Descripcion" id="searchInput">
+                        <span class="input-group-append">
+                            <div class="input-group-text bg-transparent border">
+                                <a class="ico" href="#">
+                                    <span class="material-symbols-outlined">search</span>
+                                </a>
+                            </div>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <label class="form-label">Como Quiere consumir los Datos</label>
+                    <div class="d-flex align-items-center">
+                        <div class="form-check me-4">
+                            <input class="form-check-input" type="radio"
+                                   name="radioTipo" id="rdADO"
+                                   required>
+                            <label class="form-check-label">ADO.Net</label>
+                        </div>
+                        <div class="form-check me-4">
+                            <input class="form-check-input" type="radio"
+                                   name="radioTipo" id="rdWS"
+                                    required>
+                            <label class="form-check-label">Web Service</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr class="m-2" />
+
+            <div class="row justify-content-end mb-3 m-4">
+                <div class="col-auto">
+                    <button type="button" class="btn btn-primary" onclick="cargaExamenes();">
+                        <span class="material-symbols-outlined">search</span> Listar
+                    </button>
+                </div>
+                <div class="col-auto">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createModal">
+                        <span class="material-symbols-outlined">add</span> Nuevo Registro
+                    </button>
+                </div>
+            </div>
+            <!-- Tabla -->
+            <div class="table-responsive m-4">
+
+                <table class="table table-striped" id="groupTable">
+                    <thead>
+                        <tr>
+                            <th>Nombre Examen</th>
+                            <th>Descipcion</th>
+                        </tr>
+                    </thead>
+                    <tbody id="dataExamen">
+                        
+                    </tbody>
+                </table>
+
+            </div>
+
+            <!-- Paginado -->
+            <div class="row justify-content-end mt-4">
+                <div class="col-auto">
+                    <nav>
+                        <ul class="pagination" id="pagination"></ul>
+                    </nav>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" style="z-index: 99000;" id="createModal" tabindex="-1" aria-labelledby="createModalLabel" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="">
+                <div class="">
+                    <div id="main_container2">
+                        <div class="modal-header">
+                            <h3 id="tituloCatalogoCrea">Creacion de registro</h3>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <form id="Examen">
+                            <input type="hidden" id="creteId" name="fi_idExamen" />
+                            <div class="modal-body">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <input type="text" class="form-control" id="idExamen" name="fi_idExamen" placeholder="id del Examen" hidden />
+                                            <label for="idExamen"></label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <input type="text" class="form-control" id="createNombre" name="fc_Nombre" maxlength="200"
+                                                    required 
+                                                   placeholder="Escribe aquí..." />
+                                            <label for="createNombre">Nombre del Examen</label>
+                                        </div>
+                                        <span id="create-spanMax" class="text-wrapper-4" style="font-size: 12px;">Máximo 200 caracteres</span>
+                                    </div>
+                                </div>
+                                <span id="error-createNombre" class="text-danger" style="display:none; font-size:0.9em;">
+                                    Solo se permiten letras, acentos y signos de puntuación básicos (.,:()<>).
+                                </span>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <input type="text" class="form-control" id="createDescripcion" name="fc_Descripcion" maxlength="200"
+                                                    required 
+                                                   data-validations="Catname" placeholder="Escribe aquí..." />
+                                            <label for="createDescripcion">Descripcion del Examen</label>
+                                        </div>
+                                        <span id="create-spanMax" class="text-wrapper-4" style="font-size: 12px;">Máximo 200 caracteres</span>
+                                    </div>
+                                </div>
+                                <span id="error-createDescripcion" class="text-danger" style="display:none; font-size:0.9em;">
+                                    Solo se permiten letras, acentos y signos de puntuación básicos (.,:()<>).
+                                </span>
+
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-terciary" data-bs-dismiss="modal">Cancelar</button>
+                                    <button type="button" class="btn-primary saveGC" id="btnAceptar-createDescripcion" onclick="saveGuardar()">
+                                        <span class="material-symbols-outlined">cloud_upload</span> Guardar
+                                    </button>
+                                </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" style="z-index: 99000;" id="editModal" tabindex="-1" aria-labelledby="createModalLabel" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="">
+                <div class="">
+                    <div id="main_container2">
+                        <div class="modal-header">
+                            <h3 id="tituloCatalogoCrea">Edición de registro</h3>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <form id="Examen">
+                            <input type="hidden" id="creteId" name="fi_idExamen" />
+                            <div class="modal-body">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <input type="text" class="form-control" id="idExamen" name="fi_idExamen" placeholder="id del Examen" hidden />
+                                            <label for="idExamen"></label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <input type="text" class="form-control" id="editNombre" name="fc_Nombre" maxlength="200"
+                                                   required
+                                                   placeholder="Escribe aquí..." />
+                                            <label for="editNombre">Nombre del Examen</label>
+                                        </div>
+                                        <span id="create-spanMax" class="text-wrapper-4" style="font-size: 12px;">Máximo 200 caracteres</span>
+                                    </div>
+                                </div>
+                                <span id="error-editNombre" class="text-danger" style="display:none; font-size:0.9em;">
+                                    Solo se permiten letras, acentos y signos de puntuación básicos (.,:()<>).
+                                </span>
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <input type="text" class="form-control" id="editDescripcion" name="fc_Descripcion" maxlength="200"
+                                                   required 
+                                                   data-validations="Catname" placeholder="Escribe aquí..." />
+                                            <label for="editDescripcion">Descripcion del Examen</label>
+                                        </div>
+                                        <span id="create-spanMax" class="text-wrapper-4" style="font-size: 12px;">Máximo 200 caracteres</span>
+                                    </div>
+                                </div>
+                                <span id="error-createDescripcion" class="text-danger" style="display:none; font-size:0.9em;">
+                                    Solo se permiten letras, acentos y signos de puntuación básicos (.,:()<>).
+                                </span>
+
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-terciary" data-bs-dismiss="modal">Cancelar</button>
+                                    <button type="button" class="btn-primary saveGC" id="btnAceptar-editDescripcion" onclick="saveGuardarEdit()">
+                                        <span class="material-symbols-outlined">cloud_upload</span> Guardar
+                                    </button>
+                                </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+
+    /* Barra de paginado */
+    .active > .page-link, .page-link.active {
+        z-index: 3;
+        color: #333335;
+        background-color: #FFDBDB;
+        border-radius: 50px;
+        border-color: #FFDBDB;
+        width: 35px;
+        height: 35px;
+    }
+
+    .page-link {
+        position: relative;
+        display: block;
+        padding: var(--bs-pagination-padding-y) var(--bs-pagination-padding-x);
+        font-size: var(--bs-pagination-font-size);
+        color: #6c757d;
+        text-decoration: none;
+        background-color: #fff;
+        border: #fff;
+        transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+
+        .page-link :hover {
+            border-radius: 50px;
+        }
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    const controller = '@Url.Action("", "Examen")';
+    var successMessage = '@(TempData["SuccessMessage"] ?? "")';
+    var errorMessage = '@(TempData["ErrorMessage"] ?? "")';
+</script>
+<script src="~/Scripts/Views/Examen.js"></script>

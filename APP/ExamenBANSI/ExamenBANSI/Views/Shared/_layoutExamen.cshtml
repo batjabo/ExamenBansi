@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html lang="es-MX">
+
+<head>
+    
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="~/css/globals.css" />
+    
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/css/responsive.css" />
+    <link rel="stylesheet" href="~/css/materialdesignicons.min.css" />
+    <link rel="stylesheet" href="~/css/choicejs/choices.min.css" />
+
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <script type="text/javascript" src="~/Scripts/modernizr.custom.79639.js"></script>
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery-ui-1.9.0.js"></script>
+    <script src="~/Scripts/jquery.blockUI.js"></script>
+    <script src="~/Scripts/datatables.js"></script>
+    <script src="~/Scripts/jQuery.FileUpload/jquery.fileupload.js"></script>
+    <link rel="stylesheet" href="~/css/ajustes.css" />
+    <script src="~/Scripts/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="~/css/sweetalert2.min.css" />
+    <link rel="stylesheet" href="~/css/datatables.min.css" />
+    <script src="~/Scripts/Views/Shared/utils.js"></script>
+    <script src="~/Scripts/choicejs/choices.min.js"></script>
+
+</head>
+<body>
+    <div>
+
+
+        
+               
+
+        <div class="overlay" id="overlay"></div>
+
+
+        <div class="modal-md" id="modalsuccess" style="display: none">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="ico-modal center">
+                            
+                        </div>
+                        <h2 class="center teal-blue">¡Listo!</h2>
+                        <hr>
+                        <p id="mnsDivModalSuccess">La información se guardo exitosamente.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="dismissModal('success');" class="btn btn-primary w-100">Salir</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal-md" id="modalerror" style="display: none">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="ico-modal center">
+                            
+                        </div>
+                        <h2 id="tituloMnsError" class="center teal-blue">No se pudo guardar la información</h2>
+                        <hr>
+                        <p id="mnsDivModalError">Inténtalo más tarde, por el momento nuestro servicio no está disponible.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="dismissModal('error');" class="btn btn-primary w-100">Entendido</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal-md" id="modalerrorreg" style="display: none">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="ico-modal center">
+                            
+                        </div>
+                        <h2 class="center teal-blue">Sin información disponible</h2>
+                        <hr>
+                        <p>De momento no se encontró información, favor de intentarlo más tarde.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="dismissModal('errorreg');" class="btn btn-primary w-100">Entendido</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal-md" id="modalMensajeGeneral" style="display: none">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="ico-modal center">
+                            
+                        </div>
+                        <h2 class="center teal-blue" id="mdlMsgGnlTitulo">Titulo</h2>
+                        <hr>
+                        <p id="mdlMsgGnlError">Mensaje</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="$('#modalMensajeGeneral').modal('toggle');" class="btn btn-primary w-100">Entendido</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal-md" id="modalerrorMissFields" style="display: none">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="ico-modal center">
+                            
+                        </div>
+                        <h2 id="tituloMnserrorMissFields" class="center teal-blue">Información faltante</h2>
+                        <hr>
+                        <p id="mnsDivModalerrorMissFields">Uno o más campos obligatorios no han sido llenados, favor de validar.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="dismissModal('errorMissFields');" class="btn btn-primary w-100">Entendido</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @RenderBody()
+        @RenderSection("Scripts", required: false)
+    </div>
+    <!-- BOOTSTRAP -->
+
+    <script src="~/Scripts/popper.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    <!-- BOOTSTRAP -->
+
+    <script src="~/Scripts/menu.js"></script>
+        <script src="~/Scripts/Views/Shared/Script.js"></script>
+
+    <script type="text/javascript">
+
+
+        $(document).ready(function () {
+            addUpperCaseTr();
+
+            /* para el menu fijo*/
+            $('.navbar .dropdown').on('show.bs.dropdown', function () {
+                const $dropdown = $(this).find('.dropdown-menu');
+                const offset = $(this).offset();
+                const height = $(this).outerHeight();
+
+                $dropdown.css({
+                    top: offset.top + height,
+                    left: offset.left,
+                    position: 'fixed',
+                    display: 'block'
+                });
+            });
+
+            $('.navbar .dropdown').on('hidden.bs.dropdown', function () {
+                $(this).find('.dropdown-menu').attr('style', '');
+            });
+
+            $(document).on('click.bs.dropdown.data-api', '.dropdown-menu', function (e) {
+                e.stopPropagation();
+            });
+
+        });
+    </script>
+
+    <style>
+        /* Soporte para submenús */
+
+        .dropdown-submenu {
+            position: relative;
+        }
+
+            .dropdown-submenu > .dropdown-menu {
+                top: 0;
+                left: 100%; /* aparece a la derecha */
+                margin-top: -0.125rem;
+                display: none; /* oculto por defecto */
+            }
+
+            /* Mostrar al pasar el mouse */
+            .dropdown-submenu:hover > .dropdown-menu {
+                display: block;
+            }
+
+        .dropdown-menu .dropdown-item {
+            white-space: nowrap;
+        }
+    </style>
+
+</body>
+</html>
